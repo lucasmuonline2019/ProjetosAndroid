@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="botao_no_centro">Botao no Centro</string>
+    <string name="botao_em_baixo_da_tela">Botao em baixo da tela</string>
+</resources>

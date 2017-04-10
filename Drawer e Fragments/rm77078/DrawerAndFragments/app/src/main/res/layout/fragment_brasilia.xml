@@ -1,0 +1,42 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="148dp"
+        android:id="@+id/carImg"
+        android:src="@drawable/brasilia"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/carName"
+        android:textStyle="bold"
+        android:textSize="24dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:text="Brasília"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/carYear"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:text="1973"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/carHistory"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:text="O Brasília foi um automóvel produzido de 1973 até 1982 pela Volkswagen do Brasil. (Definido internamente como modelo/tipo 102) Foi projetado para aliar a robustez do Volkswagen Fusca, um carro consagrado no mercado, com o conforto de um automóvel com maior espaço interno e desenho mais contemporâneo. Era um carro pequeno, de linhas retas e grande área envidraçada."/>
+
+</LinearLayout>

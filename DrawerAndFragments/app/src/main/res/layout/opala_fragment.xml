@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/opala"
+        android:layout_marginTop="20dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/opala"
+            android:textAlignment="center"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:textSize="30sp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/o_chevrolet_opala_foi_um_modelo_de_autom_vel_fabricado_pela_general_motors_do_brasil_foi_o_primeiro_autom_vel_de_passeio_fabricado_pela_montadora_no_pa_s_tendo_sido_produzido_de_1968_a_1992_o_opala_foi_apresentado_ao_p_blico_brasileiro_no_sal_o_do_autom_vel_de_1968"
+            android:textAlignment="center"
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:textColor="#000"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>

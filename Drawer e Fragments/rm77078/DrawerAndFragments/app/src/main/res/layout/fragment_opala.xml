@@ -1,0 +1,42 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="148dp"
+        android:id="@+id/carImg"
+        android:src="@drawable/opala"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/carName"
+        android:textStyle="bold"
+        android:textSize="24dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:text="Opala"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/carYear"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:text="1968"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/carHistory"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:text="O Chevrolet Opala foi um modelo de automóvel fabricado pela General Motors do Brasil. Foi o primeiro automóvel de passeio fabricado pela montadora no país, tendo sido produzido de 1968 a 1992. O Opala foi apresentado ao público brasileiro no Salão do Automóvel de 1968. A carroceria do modelo da General Motors foi inspirada no alemão Opel Rekord, mas com estilo e potência parecidas com a do modelo americano Impala, também fabricado pela marca. Em um curto período de vendas, houve grande aceitação pelo público, tornando-se um modelo consagrado."/>
+
+</LinearLayout>

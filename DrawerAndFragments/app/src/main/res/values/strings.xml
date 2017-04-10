@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Carros Antigos App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="carros_antigos">Carros Antigos</string>
+    <string name="rm77078">RM77078</string>
+    <string name="ricardo_santos_filho">Ricardo Santos Filho</string>
+    <string name="veraneio">Veraneio</string>
+    <string name="opala">Opala</string>
+    <string name="maverick">Maverick</string>
+    <string name="fusca">Fusca</string>
+    <string name="d20">D20</string>
+    <string name="a_s_rie_20_foi_uma_linha_de_ve_culos_utilit_rios_de_grande_porte_produzidas_pela_general_motors_do_brasil_no_per_odo_de_1985_a_1997_sob_a_marca_chevrolet_a_linha_era_composta_por_vers_es_pickup_de_cabine_simples_ou_dupla_com_ca_amba_longa_ou_curta_e_dois_suv_de_3_chevrolet_bonanza_ou_5_portas_chevrolet_veraneio">A Série 20 foi uma linha de veículos utilitários de grande porte produzidas pela General Motors do Brasil no período de 1985 a 1997, sob a marca Chevrolet. A linha era composta por versões pickup, de cabine simples ou dupla, com caçamba longa ou curta, e dois SUV de 3 (Chevrolet Bonanza) ou 5 portas (Chevrolet Veraneio).</string>
+    <string name="conhe_a_a_hist_ria_da_ferrari_tudo_come_ou_em_1929_quando_a_marca_foi_fundada_na_cidade_de_maranello_na_it_lia_por_enzo_ferrari_inicialmente_conhecida_como_scuderia_ferrari_a_fabricante_patrocinava_pilotos_e_carros_de_corrida_j_fabricados">Conheça a história da Ferrari. ... Tudo começou em 1929, quando a marca foi fundada na cidade de Maranello, na Itália, por Enzo Ferrari. Inicialmente conhecida como Scuderia Ferrari, a fabricante patrocinava pilotos e carros de corrida já fabricados</string>
+    <string name="ferrari">Ferrari</string>
+    <string name="o_maverick_foi_um_autom_vel_criado_pela_ford_dos_estados_unidos_que_obteve_grande_sucesso_em_seu_pa_s_de_origem_tamb_m_foi_fabricado_no_brasil_entre_1973_e_1979_em_vers_es_exclusivas_com_motores_4_e_6_cilindros_onde_foi_lan_ado_com_enfoque_comercial_bem_diferente_do_americano_e_apesar_de_n_o_ter_obtido_o_mesmo_sucesso_de_vendas_tornou_se_lend_rio_e_hoje_cultuado_por_pessoas_de_v_rias_idades">O Maverick foi um automóvel criado pela Ford dos Estados Unidos que obteve grande sucesso em seu país de origem. Também foi fabricado no Brasil entre 1973 e 1979 em versões exclusivas com motores 4 e 6 cilindros, onde foi lançado com enfoque comercial bem diferente do americano, e apesar de não ter obtido o mesmo sucesso de vendas, tornou-se lendário e hoje é cultuado por pessoas de várias idades.</string>
+    <string name="hist_ria_do_fusca_para_alguns_um_projeto_arcaico_para_outros_um_projeto_eterno_feito_pra_durar_o_fusca_feito_a_principio_pedido_de_hitler_a_ferdinand_porsche_o_velho_beetle_foi_nomeado_volkswagen_que_como_todos_sabem_provem_do_idioma_alem_o_e_seu_significado_carro_do_povo">História do Fusca. ... Para alguns um projeto arcaico, para outros um projeto eterno, feito pra durar; o Fusca, feito a principio à pedido de Hitler a Ferdinand Porsche, o velho “beetle” foi nomeado Volkswagen, que como todos sabem, provem do idioma alemão e seu significado é “Carro do Povo“.</string>
+    <string name="o_chevrolet_opala_foi_um_modelo_de_autom_vel_fabricado_pela_general_motors_do_brasil_foi_o_primeiro_autom_vel_de_passeio_fabricado_pela_montadora_no_pa_s_tendo_sido_produzido_de_1968_a_1992_o_opala_foi_apresentado_ao_p_blico_brasileiro_no_sal_o_do_autom_vel_de_1968">O Chevrolet Opala foi um modelo de automóvel fabricado pela General Motors do Brasil. Foi o primeiro automóvel de passeio fabricado pela montadora no país, tendo sido produzido de 1968 a 1992. O Opala foi apresentado ao público brasileiro no Salão do Automóvel de 1968.</string>
+    <string name="chevrolet_veraneio_foi_um_utilit_rio_esportivo_suv_produzido_pela_chevrolet_do_brasil_de_1964_a_1994_desenhada_por_luther_stier_inspirado_na_chevrolet_suburban_americana_inicialmente_chamava_se_c_1416_nome_usado_at_1969_o_modelo_dispunha_de_quatro_portas_e_podia_acomodar_at_nove_pessoas">Chevrolet Veraneio foi um utilitário esportivo (SUV) produzido pela Chevrolet do Brasil de 1964 a 1994, desenhada por Luther Stier, inspirado na Chevrolet Suburban americana. Inicialmente chamava-se C-1416 (nome usado até 1969). O modelo dispunha de quatro portas e podia acomodar até nove pessoas.</string>
+</resources>

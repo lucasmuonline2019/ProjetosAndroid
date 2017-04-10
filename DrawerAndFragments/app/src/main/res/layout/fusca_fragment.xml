@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/fusqueta"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/fusca"
+            android:textAlignment="center"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:textSize="30sp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/hist_ria_do_fusca_para_alguns_um_projeto_arcaico_para_outros_um_projeto_eterno_feito_pra_durar_o_fusca_feito_a_principio_pedido_de_hitler_a_ferdinand_porsche_o_velho_beetle_foi_nomeado_volkswagen_que_como_todos_sabem_provem_do_idioma_alem_o_e_seu_significado_carro_do_povo"
+            android:textAlignment="center"
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:textColor="#000"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>

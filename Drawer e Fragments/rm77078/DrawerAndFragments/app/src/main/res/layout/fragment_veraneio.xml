@@ -1,0 +1,42 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="148dp"
+        android:id="@+id/carImg"
+        android:src="@drawable/veraneio"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/carName"
+        android:textStyle="bold"
+        android:textSize="24dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:text="Veraneio"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/carYear"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:text="1964"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/carHistory"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:text="Chevrolet Veraneio foi um utilitário esportivo (SUV) produzido pela Chevrolet do Brasil de 1964 a 1994, desenhada por Luther Stier, inspirado na Chevrolet Suburban americana. Inicialmente chamava-se C-1416 (nome usado até 1969). O modelo dispunha de quatro portas e podia acomodar até nove pessoas. O motivo principal do sucesso desse automóvel foi sua utilização como viatura de polícia, e em alguns casos também, como ambulância, já que era o único veículo desse porte produzido no país. Também foi amplamente utilizado no meio civil."/>
+
+</LinearLayout>

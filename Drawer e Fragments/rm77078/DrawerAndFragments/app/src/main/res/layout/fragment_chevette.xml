@@ -1,0 +1,42 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="148dp"
+        android:id="@+id/carImg"
+        android:src="@drawable/chevette"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/carName"
+        android:textStyle="bold"
+        android:textSize="24dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:text="Chevette"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/carYear"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:text="1973"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/carHistory"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:text="Lançado na década de 70, o Chevette tornou-se um dos mais populares veículos produzidos pela GM no Brasil. Estima-se que até o encerramento de sua produção em 1993, o modelo teria vendido mais de 1,6 milhões de unidades, tendo seu apogeu em vendas entre o fim dos anos 70 e meados da década de 80, quando nestes anos, seus concorrentes diretos saíram de linha em outras montadoras."/>
+
+</LinearLayout>

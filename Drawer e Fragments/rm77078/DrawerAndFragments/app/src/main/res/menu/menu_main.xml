@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/fusca"
+        android:title="Fusca"
+        android:icon="@drawable/ic_car"/>
+    <item android:id="@+id/chevette"
+        android:title="Chevette"
+        android:icon="@drawable/ic_car"/>
+    <item android:id="@+id/brasilia"
+        android:title="Brasília"
+        android:icon="@drawable/ic_car"/>
+    <item android:id="@+id/kombi"
+        android:title="Kombi"
+        android:icon="@drawable/ic_car"/>
+    <item android:id="@+id/opala"
+        android:title="Opala"
+        android:icon="@drawable/ic_car"/>
+    <item android:id="@+id/veraneio"
+        android:title="Veraneio"
+        android:icon="@drawable/ic_car"/>
+</menu>
